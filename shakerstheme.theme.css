@@ -1,0 +1,24 @@
+/**
+* @name Purple Plam Tree Background
+* @author shaker#0001
+* @version 1.0
+* @description An animated palm tree backgroumd, based on a POV inside a car.
+* @source https://github.com/GoldenLys/BetterDiscord-Elysia
+* @website https://goldenlys.github.io/ThemeGen
+* @authorLink https://github.com/GoldenLys
+*/
+
+@import url("https://monstrousdev.github.io/themes/phoenix-bundle/reborn.css");
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+:root {
+--roundness: 330px;
+--main-color: #a504fb;
+--hover-color: rgba(3,103,155,0.1);
+--home-color: rgba(212,0,255,0.7);
+--hover-size: 430px;
+--shadow: rgba(212,0,255,0.4);
+--background-image: url('https://imgur.com/r7ZJN0F.gif');
+--background-blur: 10px;
+--popup-background: url('https://www.publicdomainpictures.net/pictures/160000/velka/purple-palm-tree-silhouette-1456857888pxD.jpg');
+}
